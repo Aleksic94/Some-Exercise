@@ -1,0 +1,26 @@
+.mainContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.image_1 {
+    height: 100%;
+    width: 400px;
+}
+.image_2 {
+    height: 100%;
+    width: 400px;
+}
+
+.firstSection{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    color: #7C824C;
+}
+
+.info{
+    color: #B0B0B0;
+}
